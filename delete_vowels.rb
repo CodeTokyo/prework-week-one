@@ -1,6 +1,5 @@
-def delete_vowels
-  string = "Brennan"
+def delete_vowels(string)
   string = string.delete!("a,e,i,o,u")
 end
 
-puts delete_vowels
+puts delete_vowels("Brennan")
