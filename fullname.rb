@@ -1,7 +1,7 @@
 puts "First Name"
-name = gets.chomp
+name_1 = gets.chomp
 
 puts "Last Name"
-name = name+gets.chomp
+name_2 = gets.chomp
 
-puts "Hello " + name + ", how are you?"
+puts "Hello " + name_1 + " " + name_2 + ", how are you?"
