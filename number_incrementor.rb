@@ -11,4 +11,4 @@ def increment(number)
   puts number + 9
 end
 
-increment(42)
+increment(42),
