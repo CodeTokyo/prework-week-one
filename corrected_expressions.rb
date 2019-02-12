@@ -1,3 +1,4 @@
+#These are my answers
 puts "hello" + "3" == "hello3"
 puts (5 + 5 == 10) == true
 puts 3 / 3 == 1
