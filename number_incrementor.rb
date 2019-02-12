@@ -1,4 +1,5 @@
-puts number = 5
+puts "Enter a number!"
+puts number = gets.chomp.to_i
 
 puts number + 1
 puts number + 2
