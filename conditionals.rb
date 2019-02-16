@@ -8,3 +8,5 @@ def enter_number
     puts "That is incorrect"
   end
 end
+
+puts enter_number
